@@ -1,0 +1,16 @@
+This is my command
+
+
++ pkg update && pkg upgrade
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/akashbotolbaba/niloy/new/master/README.niloy
+
+ls
+
+cd niloy
+
+python2 niloy.py
